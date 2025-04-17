@@ -4,7 +4,7 @@ import jakarta.ws.rs.core.Application;
 import java.util.HashSet;
 import java.util.Set;
 
-@ApplicationPath("/") // Base path for REST endpoints
+@ApplicationPath("/") //
 public class BookstoreApiApplication extends Application {
 
     @Override
