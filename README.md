@@ -17,6 +17,8 @@ The **Bookstore API** is a RESTful web service for managing a bookstore. It allo
 
 - **Java** (Spring Boot Framework)
 - **JAR-RS** (REST API development)
+- **H2** (Jersey)
+- **H2** (Jakarta)
 - **H2** (Memory storage)
 
 
