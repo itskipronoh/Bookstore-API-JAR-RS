@@ -32,8 +32,8 @@ The **Bookstore API** is a RESTful web service for managing a bookstore. It allo
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/itskipronoh/Bookstore-API.git
-   cd Bookstore-API
+   git clone https://github.com/itskipronoh/Bookstore-API-JAR-RS.git
+   cd Bookstore-API-JAR-RS
    ```
 2. **Configure Memory location**
    - Update `application.properties` for  H2.
